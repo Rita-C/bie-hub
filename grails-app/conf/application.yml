@@ -187,7 +187,9 @@ literature:
     genbank:
         url: https://www.ncbi.nlm.nih.gov
     scholar:
-        url: https://scholar.google.com
+        url: https://scholar.google.com.au
+    google:
+      url: https://www.google.com.au
     trove:
       url: https://trove.nla.gov.au
       api: https://api.trove.nla.gov.au
