@@ -36,9 +36,9 @@ endpoints:
 grails:
     config:
         locations:
-            - file:///data/ala-bie/config/ala-bie-config.properties
-            - file:///data/ala-bie/config/ala-bie-config.yml
-            - file:///data/ala-bie/config/ala-bie-config.groovy
+            - file:///data/bie-hub/config/bie-hub-config.properties
+            - file:///data/bie-hub/config/bie-hub-config.yml
+            - file:///data/bie-hub/config/bie-hub-config.groovy
     cors:
         enabled: true
     mime:
@@ -97,11 +97,13 @@ endpoints:
 ---
 #Required so that the gbif-ecat library does not bugger up initialisation from its internal application.properties
 app:
-  name: ala-bie
+  name: bie-hub
   dataDir: /tmp/gbif-ecat
 security:
   cas:
-    applyUriFiltersToTicketValidation: false
+#    applyUriFiltersToTicketValidation: false
+    casServerName: https://auth.ala.org.au
+    appServerName: http://devt.ala.org.au:8080
 skin:
   layout: ala
   orgNameLong: Atlas of Living Australia
@@ -111,13 +113,14 @@ skin:
 facebook:
   app_id: 291639771683619
 bie:
-  baseURL: http://localhost:8080
+  baseURL: http://devt.ala.org.au:8080
   searchPath: /search
   index:
-    url: http://localhost:8090/bie-index
+    url: https://bie-ws.ala.org.au/ws
+# ???   http://devt.ala.org.au:8090/bie-index
 facets: idxtype,rank,speciesGroup,locatedInHubCountry,imageAvailable,conservationStatusAUS_s,conservationStatusACT_s,conservationStatusNSW_s,conservationStatusQLD_s,conservationStatusVIC_s,conservationStatusTAS_s,conservationStatusSA_s,conservationStatusWA_s,conservationStatusNT_s
 speciesParent: https://lists.ala.org.au/iconic-species
-serverName: http://dev.ala.org.au:8080
+serverName: http://devt.ala.org.au:8080
 projectNameShort: Atlas
 projectName: Atlas of Living Australia
 biocache:
@@ -169,8 +172,8 @@ bieService:
   baseUrl: https://bie-ws.ala.org.au/ws
   queryContext:
   apiKey:
-googleMapsApiKey: AIzaSyB0HIkSCV2EdkG50uM7s96IEbO6wUHTqy0
-languageCodesUrl: file:///data/ala-bie/config/languages.json
+googleMapsApiKey: "<key value>"
+languageCodesUrl: file:///data/bie-hub/config/languages.json # change
 geocode.querySuffix:
 occurrenceCounts:
     enabled: true
@@ -184,6 +187,9 @@ literature:
         url: https://www.biodiversitylibrary.org
         api: https://www.biodiversitylibrary.org/api3
         apikey: "<key value>"
+        fulltext: false
+        pageSize: 200
+        extend: false
     genbank:
         url: https://www.ncbi.nlm.nih.gov
     scholar:
@@ -197,5 +203,24 @@ literature:
 show:
     tabs: overview,gallery,names,classification,records,literature,sequences,data-partners
 
+vernacularName:
+  # A category of vernacular names pulled out from the standard list and given special display treatment
+  pull:
+    categories:
+    active: false
+    label: Special Common Names
+    labelDetail: Common names with a special status
+    showHeader: false
+    showLanguage: false
+external:
+  eol:
+    search:
+      # {0}= name to search for, {1} = filter string
+      # service: https://eol.org/api/search/1.0.json?q={0}&page=1&exact=true&filter_by_string={1}&cache_ttl=
+      service: https://eol.org/api/search/1.0.json?q={0}&page=1&exact=true&cache_ttl=
+    page:
+      # {0} = page id
+      service: https://eol.org/api/pages/1.0/{0,number,#0}.json?language={1}&images_per_page=0&videos_per_page=0&sounds_per_page=0&maps_per_page=0&texts_per_page=30&subjects=overview&licenses=all&details=true&references=true&vetted=0&cache_ttl=
+  blacklist: file:./src/test/resources/test-blacklist.json # ask Doug
 headerAndFooter:
   version: "1"

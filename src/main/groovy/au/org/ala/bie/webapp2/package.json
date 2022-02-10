@@ -1,0 +1,243 @@
+{
+  "taxonConcept": {
+
+    "dataObjects": [
+      {
+        "idx": 0,
+        "identifier": "EOL-article-794-4b8eafb383be9c64f22dc8aa17553393",
+        "dataObjectVersionID": 17700346,
+        "dataType": "http://purl.org/dc/dcmitype/Text",
+        "dataSubtype": "",
+        "vettedStatus": "Trusted",
+        "dataRatings": [],
+        "dataRating": "2.5",
+        "subject": [
+          "Comprehensive Description"
+        ],
+        "created": "2019-05-01T08:50:37.000Z",
+        "modified": "2019-05-01T08:50:37.000Z",
+        "title": "Indigofera australis",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "license_id": 12,
+        "language": "vi",
+        "rightsHolder": "Wikipedia tác giả và biên tập viên",
+        "source": "http://vi.wikipedia.org/w/index.php?title=Indigofera_australis\u0026oldid=45014690",
+        "description": "\u003cdiv\u003e \u003cp\u003e\u003ci\u003e\u003cb\u003eIndigofera australis\u003c/b\u003e\u003c/i\u003e là một loài \u003ca href=\"http://vi.wikipedia.org/wiki/Th%E1%BB%B1c_v%E1%BA%ADt_c%C3%B3_hoa\" title=\"Thực vật có hoa\"\u003ethực vật có hoa\u003c/a\u003e trong \u003ca href=\"http://vi.wikipedia.org/wiki/H%E1%BB%8D_%C4%90%E1%BA%ADu\" title=\"Họ Đậu\"\u003ehọ Đậu\u003c/a\u003e. Loài này được Willd. miêu tả khoa học đầu tiên.\u003csup\u003e\u003ca href=\"#cite_note-1\"\u003e[1]\u003c/a\u003e\u003c/sup\u003e Là một loài rất phổ biến và phổ biến ở Úc. Chúng mọc trong một loạt các môi trường sống khác nhau, chủ yếu là rừng mở và rừng bạch đàn, mà còn ở sa mạc và ở rìa rừng mưa nhiệt đới. Phổ biến rộng rãi ở miền nam Australia từ đông nam Tây Úc đến đông bắc Queensland. \u003c/p\u003e \u003ch2\u003e\n\u003cspan\u003e\u003c/span\u003e\u003cspan\u003eHình ảnh\u003c/span\u003e\n\u003c/h2\u003e \u003cul class=\"gallery mw-gallery-traditional\"\u003e \u003cli\u003e\u003cdiv\u003e \u003cdiv\u003e\u003cdiv\u003e\u003ca href=\"http://vi.wikipedia.org/wiki/T%E1%BA%ADp_tin:Zizina_labradus-Butterfly-on-Rose_SC,-EG-Vic,-23.2.2008.jpg\"\u003e\u003cimg alt=\"Zizina labradus-Butterfly-on-Rose SC,-EG-Vic,-23.2.2008.jpg\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Zizina_labradus-Butterfly-on-Rose_SC%2C-EG-Vic%2C-23.2.2008.jpg/120px-Zizina_labradus-Butterfly-on-Rose_SC%2C-EG-Vic%2C-23.2.2008.jpg\" width=\"120\" height=\"114\"\u003e\u003c/a\u003e\u003c/div\u003e\u003c/div\u003e \u003cdiv\u003e \u003c/div\u003e \u003c/div\u003e\u003c/li\u003e \u003cli\u003e\u003cdiv\u003e \u003cdiv\u003e\u003cdiv\u003e\u003ca href=\"http://vi.wikipedia.org/wiki/T%E1%BA%ADp_tin:Indigofera_australis_Eastwood.jpg\"\u003e\u003cimg alt=\"Indigofera australis Eastwood.jpg\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Indigofera_australis_Eastwood.jpg/120px-Indigofera_australis_Eastwood.jpg\" width=\"120\" height=\"80\"\u003e\u003c/a\u003e\u003c/div\u003e\u003c/div\u003e \u003cdiv\u003e \u003c/div\u003e \u003c/div\u003e\u003c/li\u003e \u003cli\u003e\u003cdiv\u003e \u003cdiv\u003e\u003cdiv\u003e\u003ca href=\"http://vi.wikipedia.org/wiki/T%E1%BA%ADp_tin:Indigofera_australis_BotGardBln271207.jpg\"\u003e\u003cimg alt=\"Indigofera australis BotGardBln271207.jpg\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Indigofera_australis_BotGardBln271207.jpg/90px-Indigofera_australis_BotGardBln271207.jpg\" width=\"90\" height=\"120\"\u003e\u003c/a\u003e\u003c/div\u003e\u003c/div\u003e \u003cdiv\u003e \u003c/div\u003e \u003c/div\u003e\u003c/li\u003e \u003cli\u003e\u003cdiv\u003e \u003cdiv\u003e\u003cdiv\u003e\u003ca href=\"http://vi.wikipedia.org/wiki/T%E1%BA%ADp_tin:Indigofera_australis_canberra.jpg\"\u003e\u003cimg alt=\"Indigofera australis canberra.jpg\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Indigofera_australis_canberra.jpg/120px-Indigofera_australis_canberra.jpg\" width=\"120\" height=\"90\"\u003e\u003c/a\u003e\u003c/div\u003e\u003c/div\u003e \u003cdiv\u003e \u003c/div\u003e \u003c/div\u003e\u003c/li\u003e \u003c/ul\u003e \u003ch2\u003e\n\u003cspan\u003e\u003c/span\u003e\u003cspan\u003eChú thích\u003c/span\u003e\n\u003c/h2\u003e \u003cdiv\u003e \u003col\u003e \u003cli\u003e\n\u003cb\u003e\u003ca href=\"#cite_ref-1\"\u003e^\u003c/a\u003e\u003c/b\u003e \u003cspan\u003e\u003cspan\u003eThe Plant List (2010). \u003ca href=\"http://www.theplantlist.org/tpl1.1/record/ild-3714\"\u003e“\u003ci\u003eIndigofera australis\u003c/i\u003e”\u003c/a\u003e\u003cspan\u003e. Truy cập ngày 5 tháng 6 năm 2013\u003c/span\u003e.\u003c/span\u003e\u003c/span\u003e \u003c/li\u003e \u003c/ol\u003e\n\u003c/div\u003e \u003ch2\u003e\n\u003cspan\u003e\u003c/span\u003e\u003cspan\u003eLiên kết ngoài\u003c/span\u003e\n\u003c/h2\u003e \u003cul\u003e\n\u003cli\u003e\n\u003cimg alt=\" src=\" width=\"12\" height=\"16\"\u003e Phương tiện liên quan tới \u003ca href=\"https://commons.wikimedia.org/wiki/Category:Indigofera_australis\" title=\"commons:Category:Indigofera australis\"\u003eIndigofera australis\u003c/a\u003e tại \u003ca href=\"http://vi.wikipedia.org/wiki/Wikimedia_Commons\" title=\"Wikimedia Commons\"\u003eWikimedia Commons\u003c/a\u003e\n\u003c/li\u003e \u003cli\u003e\n\u003cimg alt=\" src=\" width=\"14\" height=\"16\"\u003e Dữ liệu liên quan tới \u003ca href=\"https://species.wikimedia.org/wiki/Indigofera_australis\" title=\"wikispecies:Indigofera australis\"\u003eIndigofera australis\u003c/a\u003e tại \u003ca href=\"http://vi.wikipedia.org/wiki/Wikispecies\" title=\"Wikispecies\"\u003eWikispecies\u003c/a\u003e\n\u003c/li\u003e\n\u003c/ul\u003e \u003cp\u003e\u003cbr\u003e \u003c/p\u003e \u003cdiv\u003e \u003ci\u003eBài viết liên quan đến tông thực vật \u003ca href=\"http://vi.wikipedia.org/wiki/Indigofereae\" title=\"Indigofereae\"\u003eIndigofereae\u003c/a\u003e này vẫn còn \u003ca href=\"http://vi.wikipedia.org/wiki/Wikipedia:B%C3%A0i_s%C6%A1_khai\" title=\"Wikipedia:Bài sơ khai\"\u003esơ khai\u003c/a\u003e. Bạn có thể giúp Wikipedia bằng cách \u003ca href=\"//vi.wikipedia.org/w/index.php?title=Indigofera_australis\u0026amp;veaction=edit\"\u003emở rộng nội dung\u003c/a\u003e để bài được hoàn chỉnh hơn.\u003c/i\u003e\u003cdiv\u003e\u003cul\u003e\n\u003cli\u003e\u003ca href=\"http://vi.wikipedia.org/wiki/B%E1%BA%A3n_m%E1%BA%ABu:S%C6%A1_khai_T%C3%B4ng_Ch%C3%A0m\" title=\"Bản mẫu:Sơ khai Tông Chàm\"\u003e\u003cspan title=\"Xem bản mẫu này\"\u003ex\u003c/span\u003e\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"http://vi.wikipedia.org/wiki/Th%E1%BA%A3o_lu%E1%BA%ADn_B%E1%BA%A3n_m%E1%BA%ABu:S%C6%A1_khai_T%C3%B4ng_Ch%C3%A0m\" title=\"Thảo luận Bản mẫu:Sơ khai Tông Chàm\"\u003e\u003cspan title=\"Thảo luận về bản mẫu này\"\u003et\u003c/span\u003e\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"//vi.wikipedia.org/w/index.php?title=B%E1%BA%A3n_m%E1%BA%ABu:S%C6%A1_khai_T%C3%B4ng_Ch%C3%A0m\u0026amp;action=edit\"\u003e\u003cspan title=\"Sửa đổi bản mẫu này\"\u003es\u003c/span\u003e\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\u003c/div\u003e \u003c/div\u003e \u003cp\u003e\u003cbr\u003e \u003c/p\u003e \u003c/div\u003e",
+        "agents": [
+          {
+            "full_name": "wikipedia VI",
+            "homepage": null,
+            "role": "provider"
+          }
+        ]
+      },
+      {
+        "idx": 1,
+        "identifier": "EOL-article-794-ad41b36edaaedbe37af2f9f38306c64c",
+        "dataObjectVersionID": 17700347,
+        "dataType": "http://purl.org/dc/dcmitype/Text",
+        "dataSubtype": "",
+        "vettedStatus": "Trusted",
+        "dataRatings": [],
+        "dataRating": "2.5",
+        "subject": [
+          "Brief Summary"
+        ],
+        "created": "2019-05-01T08:50:37.000Z",
+        "modified": "2019-05-01T08:50:37.000Z",
+        "title": "Indigofera australis: Brief Summary",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "license_id": 12,
+        "language": "vi",
+        "rightsHolder": "Wikipedia tác giả và biên tập viên",
+        "source": "http://vi.wikipedia.org/w/index.php?title=Indigofera_australis\u0026oldid=45014690",
+        "description": "\u003cp\u003eIndigofera australis là một loài \u003ca href=\"http://vi.wikipedia.org/wiki/Th%E1%BB%B1c_v%E1%BA%ADt_c%C3%B3_hoa\" title=\"Thực vật có hoa\"\u003ethực vật có hoa\u003c/a\u003e trong \u003ca href=\"http://vi.wikipedia.org/wiki/H%E1%BB%8D_%C4%90%E1%BA%ADu\" title=\"Họ Đậu\"\u003ehọ Đậu\u003c/a\u003e. Loài này được Willd. miêu tả khoa học đầu tiên. Là một loài rất phổ biến và phổ biến ở Úc. Chúng mọc trong một loạt các môi trường sống khác nhau, chủ yếu là rừng mở và rừng bạch đàn, mà còn ở sa mạc và ở rìa rừng mưa nhiệt đới. Phổ biến rộng rãi ở miền nam Australia từ đông nam Tây Úc đến đông bắc Queensland. \u003c/p\u003e",
+        "agents": [
+          {
+            "full_name": "wikipedia VI",
+            "homepage": null,
+            "role": "provider"
+          }
+        ]
+      },
+      {
+        "idx": 2,
+        "identifier": "EOL-article-858-4b8eafb383be9c64f22dc8aa17553393",
+        "dataObjectVersionID": 20460947,
+        "dataType": "http://purl.org/dc/dcmitype/Text",
+        "dataSubtype": "",
+        "vettedStatus": "Trusted",
+        "dataRatings": [],
+        "dataRating": "2.5",
+        "subject": [
+          "Comprehensive Description"
+        ],
+        "created": "2019-12-31T12:46:19.000Z",
+        "modified": "2020-10-23T04:54:54.000Z",
+        "title": "Indigofera australis",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "license_id": 12,
+        "language": "az",
+        "rights": "",
+        "rightsHolder": "Vikipediya müəllifləri və redaktorları",
+        "source": "http://az.wikipedia.org/w/index.php?title=Indigofera_australis\u0026oldid=3806090",
+        "description": "\u003cdiv\u003e \u003cp\u003e\u003cb\u003eIndigofera australis\u003c/b\u003e (\u003ca href=\"http://az.wikipedia.org/wiki/Lat%C4%B1n_dili\" title=\"Latın dili\"\u003elat.\u003c/a\u003e \u003cspan\u003eIndigofera australis\u003c/span\u003e) - \u003ca href=\"http://az.wikipedia.org/wiki/Fabaceae\" title=\"Fabaceae\"\u003epaxlakimilər\u003c/a\u003e fəsiləsinin \u003ca href=\"http://az.wikipedia.org/wiki/Indigofera\" title=\"Indigofera\"\u003eindiqofera\u003c/a\u003e cinsinə aid \u003ca href=\"http://az.wikipedia.org/wiki/Bitki\" title=\"Bitki\"\u003ebitki\u003c/a\u003e növü. \u003c/p\u003e \u003ch2\u003e\n\u003cspan\u003e\u003c/span\u003e\u003cspan\u003eMənbə\u003c/span\u003e\n\u003c/h2\u003e \u003cdiv\u003e \u003c/div\u003e   \u003ca href=\"http://az.wikipedia.org/wiki/%C5%9E%C9%99kil:Inula_britannica.jpeg\"\u003e\u003cimg alt=\"Inula britannica.jpeg\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Inula_britannica.jpeg/20px-Inula_britannica.jpeg\" width=\"20\" height=\"27\"\u003e\u003c/a\u003e  \u003ci\u003e\u003cspan\u003e \u003ca href=\"http://az.wikipedia.org/wiki/%C4%B0kil%C9%99p%C9%99lil%C9%99r\" title=\"İkiləpəlilər\"\u003eİkiləpəlilər\u003c/a\u003e ilə əlaqədar bu məqalə qaralama halındadır.\u003c/span\u003e \u003cspan\u003eMəqaləni \u003ca href=\"https://az.wikipedia.org/w/index.php?title=Indigofera_australis\u0026amp;action=edit\"\u003eredaktə\u003c/a\u003e edərək Vikipediyanı zənginləşdirin.\u003c/span\u003e\u003c/i\u003e  \u003c/div\u003e",
+        "agents": [
+          {
+            "full_name": "wikipedia AZ",
+            "homepage": null,
+            "role": "provider"
+          }
+        ]
+      },
+      {
+        "idx": 3,
+        "identifier": "EOL-article-858-ad41b36edaaedbe37af2f9f38306c64c", ////
+        "dataObjectVersionID": 20460948,
+        "dataType": "http://purl.org/dc/dcmitype/Text",
+        "dataSubtype": "",
+        "vettedStatus": "Trusted",
+        "dataRatings": [],
+        "dataRating": "2.5",
+        "subject": [
+          "Brief Summary"
+        ],
+        "created": "2019-12-31T12:46:19.000Z",
+        "modified": "2020-10-23T04:54:54.000Z",
+        "title": "Indigofera australis: Brief Summary",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "license_id": 12,
+        "language": "az",
+        "rights": "",
+        "rightsHolder": "Vikipediya müəllifləri və redaktorları",
+        "source": "http://az.wikipedia.org/w/index.php?title=Indigofera_australis\u0026oldid=3806090",
+        "description": "\u003cp\u003eIndigofera australis (\u003ca href=\"http://az.wikipedia.org/wiki/Lat%C4%B1n_dili\" title=\"Latın dili\"\u003elat.\u003c/a\u003e Indigofera australis) - \u003ca href=\"http://az.wikipedia.org/wiki/Fabaceae\" title=\"Fabaceae\"\u003epaxlakimilər\u003c/a\u003e fəsiləsinin \u003ca href=\"http://az.wikipedia.org/wiki/Indigofera\" title=\"Indigofera\"\u003eindiqofera\u003c/a\u003e cinsinə aid \u003ca href=\"http://az.wikipedia.org/wiki/Bitki\" title=\"Bitki\"\u003ebitki\u003c/a\u003e növü. \u003c/p\u003e",
+        "agents": [
+          {
+            "full_name": "wikipedia AZ",
+            "homepage": null,
+            "role": "provider"
+          }
+        ]
+      },
+      {
+        "idx": 4,
+        "identifier": "EOL-article-887-4b8eafb383be9c64f22dc8aa17553393", #
+        "dataObjectVersionID": 20811694,
+        "dataType": "http://purl.org/dc/dcmitype/Text",
+        "dataSubtype": "",
+        "vettedStatus": "Trusted",
+        "dataRatings": [],
+        "dataRating": "2.5",
+        "subject": [
+          "Comprehensive Description"
+        ],
+        "created": "2020-02-27T17:50:57.000Z",
+        "modified": "2020-10-23T05:26:58.000Z",
+        "title": "Awstralski indigo",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "license_id": 12,
+        "rights": "",
+        "rightsHolder": "Wikipedia authors and editors",
+        "source": "http://hsb.wikipedia.org/w/index.php?title=Awstralski_indigo\u0026oldid=352455",
+        "description": "\u003cdiv\u003e\n\u003cp\u003e\u003cb\u003eAwstralski indigo\u003c/b\u003e je kerk ze swójby łušćinowcow (łaćonsce: Indigofera australis, Fabaceae). \u003c/p\u003e \u003cdiv\u003e\n\u003cdiv\u003e\n\u003ch2\u003eWobsah\u003c/h2\u003e\n\u003cspan\u003e\u003c/span\u003e\n\u003c/div\u003e \u003cul\u003e \u003cli\u003e\u003ca href=\"#Wopisanje\"\u003e\u003cspan\u003e1\u003c/span\u003e \u003cspan\u003eWopisanje\u003c/span\u003e\u003c/a\u003e\u003c/li\u003e \u003cli\u003e\u003ca href=\"#Stejni%C5%A1%C4%87o\"\u003e\u003cspan\u003e2\u003c/span\u003e \u003cspan\u003eStejnišćo\u003c/span\u003e\u003c/a\u003e\u003c/li\u003e \u003cli\u003e\u003ca href=\"#Roz%C5%A1%C4%9Brjenje\"\u003e\u003cspan\u003e3\u003c/span\u003e \u003cspan\u003eRozšěrjenje\u003c/span\u003e\u003c/a\u003e\u003c/li\u003e \u003cli\u003e\n\u003ca href=\"#Wu%C5%BEiwanje\"\u003e\u003cspan\u003e4\u003c/span\u003e \u003cspan\u003eWužiwanje\u003c/span\u003e\u003c/a\u003e \u003cul\u003e \u003cli\u003e\u003ca href=\"#%C5%BD%C3%B3r%C5%82a\"\u003e\u003cspan\u003e4.1\u003c/span\u003e \u003cspan\u003eŽórła\u003c/span\u003e\u003c/a\u003e\u003c/li\u003e \u003c/ul\u003e \u003c/li\u003e \u003c/ul\u003e \u003c/div\u003e \u003ch2\u003e\u003cspan\u003eWopisanje\u003c/span\u003e\u003c/h2\u003e \u003ch2\u003e\n\u003cspan\u003e\u003c/span\u003e\u003cspan\u003eStejnišćo\u003c/span\u003e\n\u003c/h2\u003e \u003ch2\u003e\n\u003cspan\u003e\u003c/span\u003e\u003cspan\u003eRozšěrjenje\u003c/span\u003e\n\u003c/h2\u003e \u003ch2\u003e\n\u003cspan\u003e\u003c/span\u003e\u003cspan\u003eWužiwanje\u003c/span\u003e\n\u003c/h2\u003e \u003ch3\u003e\n\u003cspan\u003e\u003c/span\u003e\u003cspan\u003eŽórła\u003c/span\u003e\n\u003c/h3\u003e \u003cul\u003e\n\u003cli\u003eAichele, D., Golte-Bechtle, M.: Was blüht denn da: Wildwachsende Blütenpflanzen Mitteleuropas. Kosmos Naturführer (1997)\u003c/li\u003e \u003cli\u003eBrankačk, Jurij: Wobrazowy słownik hornjoserbskich rostlinskich mjenow na CD ROM. Rěčny centrum WITAJ, wudaće za serbske šule. Budyšin 2005.\u003c/li\u003e \u003cli\u003eKubát, K. (Hlavní editor): Klíč ke květeně České republiky. Academia, Praha (2002)\u003c/li\u003e \u003cli\u003eLajnert, Jan: Rostlinske mjena. Serbske. Němske. Łaćanske. Rjadowane po přirodnym systemje. Volk und Wissen Volkseigener Verlag Berlin (1954)\u003c/li\u003e \u003cli\u003eRězak, Filip: Němsko-serbski wšowědny słownik hornjołužiskeje rěče. Donnerhak, Budyšin (1920)\u003c/li\u003e\n\u003c/ul\u003e \u003c/div\u003e",
+        "agents": [
+          {
+            "full_name": "wikipedia HSB",
+            "homepage": null,
+            "role": "provider"
+          }
+        ]
+      },
+      {
+        "idx": 5,
+        "identifier": "EOL-article-703-6d3f6267c930dfea3ec3c59e95c6cb9e",
+        "dataObjectVersionID": 23162399,
+        "dataType": "http://purl.org/dc/dcmitype/Text",
+        "dataSubtype": "",
+        "vettedStatus": "Trusted",
+        "dataRatings": [],
+        "dataRating": "2.5",
+        "subject": [
+          "Comprehensive Description"
+        ],
+        "created": "2020-05-26T18:20:16.000Z",
+        "modified": "2020-10-23T08:24:31.000Z",
+        "title": "Indigofera australis",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "license_id": 12,
+        "language": "en",
+        "rights": "",
+        "rightsHolder": "Wikipedia authors and editors",
+        "source": "http://en.wikipedia.org/w/index.php?title=Indigofera_australis\u0026oldid=947571893",
+        "description": "\u003cdiv\u003e \u003cp\u003e \u003c/p\u003e \u003cp\u003e\u003ci\u003e\u003cb\u003eIndigofera australis\u003c/b\u003e\u003c/i\u003e, the \u003cb\u003eAustralian indigo\u003c/b\u003e or \u003cb\u003eAustral indigo\u003c/b\u003e, is an attractive species of \u003ca href=\"http://en.wikipedia.org/wiki/Legume\" title=\"Legume\"\u003eleguminous\u003c/a\u003e shrub in the \u003ca href=\"http://en.wikipedia.org/wiki/Genus\" title=\"Genus\"\u003egenus\u003c/a\u003e \u003ci\u003e\u003ca href=\"http://en.wikipedia.org/wiki/Indigofera\" title=\"Indigofera\"\u003eIndigofera\u003c/a\u003e\u003c/i\u003e (family \u003ca href=\"http://en.wikipedia.org/wiki/Fabaceae\" title=\"Fabaceae\"\u003eFabaceae\u003c/a\u003e). The genus name \u003ci\u003eIndigofera\u003c/i\u003e is Neo-Latin for \"bearing Indigo\" (\u003ca href=\"http://en.wikipedia.org/wiki/Indigo\" title=\"Indigo\"\u003eIndigo\u003c/a\u003e is a purple dye originally obtained from some \u003ci\u003eIndigofera\u003c/i\u003e species). \u003ci\u003eAustralis\u003c/i\u003e, from the Latin, means not “Australian” but \"southern\", referring to the geographical distribution of the species. \u003c/p\u003e \u003cdiv\u003e\n\u003cdiv\u003e\n\u003ch2\u003eContents\u003c/h2\u003e\n\u003cspan\u003e\u003c/span\u003e\n\u003c/div\u003e \u003cul\u003e \u003cli\u003e\u003ca href=\"#Description\"\u003e\u003cspan\u003e1\u003c/span\u003e \u003cspan\u003eDescription\u003c/span\u003e\u003c/a\u003e\u003c/li\u003e \u003cli\u003e\u003ca href=\"#Distribution\"\u003e\u003cspan\u003e2\u003c/span\u003e \u003cspan\u003eDistribution\u003c/span\u003e\u003c/a\u003e\u003c/li\u003e \u003cli\u003e\u003ca href=\"#Habitat_value\"\u003e\u003cspan\u003e3\u003c/span\u003e \u003cspan\u003eHabitat value\u003c/span\u003e\u003c/a\u003e\u003c/li\u003e \u003cli\u003e\u003ca href=\"#Uses\"\u003e\u003cspan\u003e4\u003c/span\u003e \u003cspan\u003eUses\u003c/span\u003e\u003c/a\u003e\u003c/li\u003e \u003cli\u003e\u003ca href=\"#References\"\u003e\u003cspan\u003e5\u003c/span\u003e \u003cspan\u003eReferences\u003c/span\u003e\u003c/a\u003e\u003c/li\u003e \u003cli\u003e\u003ca href=\"#External_links\"\u003e\u003cspan\u003e6\u003c/span\u003e \u003cspan\u003eExternal links\u003c/span\u003e\u003c/a\u003e\u003c/li\u003e \u003c/ul\u003e \u003c/div\u003e \u003ch2\u003e\u003cspan\u003eDescription\u003c/span\u003e\u003c/h2\u003e \u003cp\u003eIts natural habit is upright, to 2 m (7 ft) high, with flexible stems. The leaves are pinnate, openly spaced on the stems, around 10 cm long and velvety smooth to the touch. The flower color is unusual, ranging through soft purple hues, often pinkish and a change from other species flowering at the same time. The flowers are smooth, in short spires in the leaf \u003ca href=\"http://en.wikipedia.org/wiki/Axil\" title=\"Axil\"\u003eaxils\u003c/a\u003e, freely produced and showy, outlining the curves of the stems. They may open at any time from mid-September and may continue till November in a cool spring. \u003c/p\u003e\n\u003cp\u003eIt can regrow and \u003ca href=\"http://en.wikipedia.org/wiki/Basal_shoot\" title=\"Basal shoot\"\u003esucker\u003c/a\u003e from \u003ca href=\"http://en.wikipedia.org/wiki/Rootstock\" title=\"Rootstock\"\u003erootstocks\u003c/a\u003e and \u003ca href=\"http://en.wikipedia.org/wiki/Lateral_roots\" title=\"Lateral roots\"\u003elateral roots\u003c/a\u003e after fire. \u003c/p\u003e \u003ch2\u003e\u003cspan\u003eDistribution\u003c/span\u003e\u003c/h2\u003e \u003cp\u003eA very common and widespread species in Australia, \u003ci\u003eIndigofera australis\u003c/i\u003e grows in a variety of different habitats, mainly open woodland and \u003ca href=\"http://en.wikipedia.org/wiki/Eucalypt\" title=\"Eucalypt\"\u003eeucalypt\u003c/a\u003e forest, but also in desert and in the margins of \u003ca href=\"http://en.wikipedia.org/wiki/Rainforest\" title=\"Rainforest\"\u003erainforest\u003c/a\u003e. It is widespread in southern Australia from the southeastern \u003ca href=\"http://en.wikipedia.org/wiki/Western_Australia\" title=\"Western Australia\"\u003eWestern Australia\u003c/a\u003e to northeastern \u003ca href=\"http://en.wikipedia.org/wiki/Queensland\" title=\"Queensland\"\u003eQueensland\u003c/a\u003e. \u003c/p\u003e \u003ch2\u003e\u003cspan\u003eHabitat value\u003c/span\u003e\u003c/h2\u003e \u003cp\u003eIt is an excellent habitat plant for wildlife. The flowers are a pollen and nectar source for many native insects, including bees and wasps. The plant is a useful \u003ca href=\"http://en.wikipedia.org/wiki/Larval_food_plants_of_Lepidoptera\" title=\"Larval food plants of Lepidoptera\"\u003efood plant for butterfly larvae\u003c/a\u003e (caterpillars): \u003c/p\u003e \u003cul\u003e\n\u003cli\u003e\n\u003ci\u003e\u003ca href=\"http://en.wikipedia.org/wiki/Freyeria_trochylus\" title=\"Freyeria trochylus\"\u003eFreyeria trochylus\u003c/a\u003e\u003c/i\u003e – \"Grass Jewel\"\u003c/li\u003e \u003cli\u003e\n\u003ci\u003e\u003ca href=\"http://en.wikipedia.org/wiki/Eurema_hecabe\" title=\"Eurema hecabe\"\u003eEurema hecabe\u003c/a\u003e\u003c/i\u003e – \"Common Grass Yellow\"\u003c/li\u003e \u003cli\u003e\n\u003ci\u003e\u003ca href=\"http://en.wikipedia.org/wiki/Lampides_boeticus\" title=\"Lampides boeticus\"\u003eLampides boeticus\u003c/a\u003e\u003c/i\u003e – \"Long-tailed Pea Blue\"\u003c/li\u003e \u003cli\u003e\n\u003ci\u003e\u003ca href=\"http://en.wikipedia.org/wiki/Zizina_labradus\" title=\"Zizina labradus\"\u003eZizina labradus\u003c/a\u003e\u003c/i\u003e – \"Common Grass-blue\"\u003c/li\u003e\n\u003c/ul\u003e \u003ch2\u003e\u003cspan\u003eUses\u003c/span\u003e\u003c/h2\u003e \u003cp\u003eThe attractive flowers, and the plants adaptability to grow in different situations make it suitable as an ornamental plant in Australia. \u003c/p\u003e\n\u003cp\u003eThe \u003ca href=\"http://en.wikipedia.org/wiki/Australian_aborigines\" title=\"Australian aborigines\"\u003eAustralian aborigines\u003c/a\u003e crushed the leaves and added these to water to kill or stun fish and eels.\u003csup\u003e\u003ca href=\"#cite_note-1\"\u003e[1]\u003c/a\u003e\u003c/sup\u003e \u003c/p\u003e\n\u003cp\u003eThe leaves and stems produce yellow-fawn dye with \u003ca href=\"http://en.wikipedia.org/wiki/Alum\" title=\"Alum\"\u003ealum\u003c/a\u003e as \u003ca href=\"http://en.wikipedia.org/wiki/Mordant\" title=\"Mordant\"\u003emordant\u003c/a\u003e.\u003csup\u003e\u003ca href=\"#cite_note-2\"\u003e[2]\u003c/a\u003e\u003c/sup\u003e \u003c/p\u003e \u003cul class=\"gallery mw-gallery-traditional\"\u003e \u003cli\u003e\u003cdiv\u003e \u003cdiv\u003e\u003cdiv\u003e\u003ca href=\"http://en.wikipedia.org/wiki/File:Zizina_labradus-Butterfly-on-Rose_SC,-EG-Vic,-23.2.2008.jpg\"\u003e\u003cimg alt=\" src=\" width=\"120\" height=\"114\"\u003e\u003c/a\u003e\u003c/div\u003e\u003c/div\u003e \u003cdiv\u003e \u003cp\u003e\u003ca href=\"http://en.wikipedia.org/wiki/Zizina_labradus\" title=\"Zizina labradus\"\u003eCommon Grass Blue butterfly\u003c/a\u003e \u003c/p\u003e \u003c/div\u003e \u003c/div\u003e\u003c/li\u003e \u003cli\u003e\u003cdiv\u003e \u003cdiv\u003e\u003cdiv\u003e\u003ca href=\"http://en.wikipedia.org/wiki/File:Indigofera_australis_Eastwood.jpg\"\u003e\u003cimg alt=\" src=\" width=\"120\" height=\"80\"\u003e\u003c/a\u003e\u003c/div\u003e\u003c/div\u003e \u003cdiv\u003e \u003cp\u003eAustralian indigo growing at \u003ca href=\"http://en.wikipedia.org/wiki/Eastwood,_New_South_Wales\" title=\"Eastwood, New South Wales\"\u003eEastwood, New South Wales\u003c/a\u003e \u003c/p\u003e \u003c/div\u003e \u003c/div\u003e\u003c/li\u003e \u003c/ul\u003e \u003ch2\u003e\u003cspan\u003eReferences\u003c/span\u003e\u003c/h2\u003e \u003cdiv\u003e \u003cdiv\u003e\u003col\u003e \u003cli\u003e\n\u003cspan\u003e\u003cb\u003e\u003ca href=\"#cite_ref-1\"\u003e^\u003c/a\u003e\u003c/b\u003e\u003c/span\u003e \u003cspan\u003e\u003ccite\u003e\u003ca href=\"http://www.anbg.gov.au/aborig.s.e.aust/indigofera-australis.html\"\u003e\"Information about Australia's Flora: Aboriginal Plant Use in SE Australia: 13 Austral Indigo\"\u003c/a\u003e. Australian National Botanic Gardens\u003cspan\u003e. Retrieved \u003cspan\u003e1 October\u003c/span\u003e 2019\u003c/span\u003e.\u003c/cite\u003e\u003c/span\u003e \u003c/li\u003e \u003cli\u003e\n\u003cspan\u003e\u003cb\u003e\u003ca href=\"#cite_ref-2\"\u003e^\u003c/a\u003e\u003c/b\u003e\u003c/span\u003e \u003cspan\u003e\u003ccite\u003e\u003ca href=\"https://science.csu.edu.au/herbarium/sws/database/indigofera/indigofera-australis\"\u003e\"Virtual Herbarium: South West Slopes Revegetation Guide: Indigofera australis\"\u003c/a\u003e. Charles Sturt University\u003cspan\u003e. Retrieved \u003cspan\u003e1 October\u003c/span\u003e 2019\u003c/span\u003e.\u003c/cite\u003e\u003c/span\u003e \u003c/li\u003e \u003c/ol\u003e\u003c/div\u003e\n\u003c/div\u003e \u003ch2\u003e \u003c/h2\u003e\n\u003c/div\u003e\u003cimg src=\"https://en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1\" alt=\" title=\" width=\"1\" height=\"1\"\u003e   \u003cdiv\u003e \u003c/div\u003e",
+        "agents": [
+          {
+            "full_name": "wikipedia EN",
+            "homepage": null,
+            "role": "provider"
+          }
+        ]
+      },
+      {
+        "idx": 6,
+        "identifier": "EOL-article-887-ad41b36edaaedbe37af2f9f38306c64c",
+        "dataObjectVersionID": 20811695,
+        "dataType": "http://purl.org/dc/dcmitype/Text",
+        "dataSubtype": "",
+        "vettedStatus": "Trusted",
+        "dataRatings": [],
+        "dataRating": "2.5",
+        "subject": [
+          "Brief Summary"
+        ],
+        "created": "2020-02-27T17:50:57.000Z",
+        "modified": "2020-02-27T17:50:57.000Z",
+        "title": "Awstralski indigo: Brief Summary",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "license_id": 12,
+        "rights": "",
+        "rightsHolder": "Wikipedia authors and editors",
+        "source": "http://hsb.wikipedia.org/w/index.php?title=Awstralski_indigo\u0026oldid=352455",
+        "description": "\u003cp\u003eAwstralski indigo je kerk ze swójby łušćinowcow (łaćonsce: Indigofera australis, Fabaceae). \u003c/p\u003e",
+        "agents": [
+          {
+            "full_name": "wikipedia HSB",
+            "homepage": null,
+            "role": "provider"
+          }
+        ]
+      },
+      {
+        "idx": 7,
+        "identifier": "EOL-article-703-7f0981b979b9074a25a79b29c606c70a",
+        "dataObjectVersionID": 23162400,
+        "dataType": "http://purl.org/dc/dcmitype/Text",
+        "dataSubtype": "",
+        "vettedStatus": "Trusted",
+        "dataRatings": [],
+        "dataRating": "2.5",
+        "subject": [
+          "Brief Summary"
+        ],
+        "created": "2020-05-26T18:20:16.000Z",
+        "modified": "2020-10-23T08:24:31.000Z",
+        "title": "Indigofera australis: Brief Summary",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "license_id": 12,
+        "language": "en",
+        "rights": "",
+        "rightsHolder": "Wikipedia authors and editors",
+        "source": "http://en.wikipedia.org/w/index.php?title=Indigofera_australis\u0026oldid=947571893",
+        "description": "\u003cp\u003eIndigofera australis, the Australian indigo or Austral indigo, is an attractive species of \u003ca href=\"http://en.wikipedia.org/wiki/Legume\" title=\"Legume\"\u003eleguminous\u003c/a\u003e shrub in the \u003ca href=\"http://en.wikipedia.org/wiki/Genus\" title=\"Genus\"\u003egenus\u003c/a\u003e \u003ca href=\"http://en.wikipedia.org/wiki/Indigofera\" title=\"Indigofera\"\u003eIndigofera\u003c/a\u003e (family \u003ca href=\"http://en.wikipedia.org/wiki/Fabaceae\" title=\"Fabaceae\"\u003eFabaceae\u003c/a\u003e). The genus name Indigofera is Neo-Latin for \"bearing Indigo\" (\u003ca href=\"http://en.wikipedia.org/wiki/Indigo\" title=\"Indigo\"\u003eIndigo\u003c/a\u003e is a purple dye originally obtained from some Indigofera species). Australis, from the Latin, means not “Australian” but \"southern\", referring to the geographical distribution of the species. \u003c/p\u003e",
+        "agents": [
+          {
+            "full_name": "wikipedia EN",
+            "homepage": null,
+            "role": "provider"
+          }
+        ]
+      }
+    ]
+  }
+}

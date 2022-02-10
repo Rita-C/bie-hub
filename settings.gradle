@@ -1,8 +1,1 @@
-rootProject.name='ala-bie'
-
-boolean inplace = false
-
-if (inplace) {
-    include ':bie-plugin'
-    project(':bie-plugin').projectDir = new File(settingsDir,'../bie-plugin')
-}
+rootProject.name='bie-hub'
