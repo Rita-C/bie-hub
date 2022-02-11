@@ -85,21 +85,21 @@ class BieTagLib implements GrailsConfigurationAware {
      */
     def constructEYALink = {  attrs, body ->
 
-       def group = attrs.result.centroid =~ /([\d.-]+) ([\d.-]+)/
-       def bieUrl = grailsApplication.config.biocache.baseURL
+        def group = attrs.result.centroid =~ /([\d.-]+) ([\d.-]+)/
+        def bieUrl = grailsApplication.config.biocache.baseURL
 
-       def parsed = group && group[0] && group[0].size() == 3
-       if(parsed){
-           def latLong = group[0]
-           out <<  "<a href='" + bieUrl + "/explore/your-area#" +
-                   latLong[2] + "|" + latLong[1] + "|12|ALL_SPECIES'>"
-       }
+        def parsed = group && group[0] && group[0].size() == 3
+        if(parsed){
+            def latLong = group[0]
+            out <<  "<a href='" + bieUrl + "/explore/your-area#" +
+                    latLong[2] + "|" + latLong[1] + "|12|ALL_SPECIES'>"
+        }
 
-       out << body()
+        out << body()
 
-       if(parsed){
-           out << "</a>"
-       }
+        if(parsed){
+            out << "</a>"
+        }
     }
 
     /**
@@ -138,7 +138,7 @@ class BieTagLib implements GrailsConfigurationAware {
             case ~/(?i)near\sthreatened.*/:
                 colour = "near-threatened"
                 break
-            //case ~/(?i)least\sconcern.*/:
+                //case ~/(?i)least\sconcern.*/:
             default:
                 colour = "green"
                 break

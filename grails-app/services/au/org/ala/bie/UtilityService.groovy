@@ -128,9 +128,9 @@ class UtilityService {
                     if(fqBits != null && fqBits.length > 1 && !"".equals(fqBits[1])){
                         String uid = fqBits[1]
                         String type = (uid.startsWith("dr")) ? "dataResource" :
-                                      (uid.startsWith("dp")) ? "dataProvider" :
-                                      (uid.startsWith("co")) ? "collection" :
-                                      (uid.startsWith("in")) ? "institution" : null
+                                (uid.startsWith("dp")) ? "dataProvider" :
+                                        (uid.startsWith("co")) ? "collection" :
+                                                (uid.startsWith("in")) ? "institution" : null
                         if(type != null && grailsApplication.config.collectory.baseURL){
                             String url = grailsApplication.config.collectory.baseURL+"/ws/"+type+"/"+uid
                             def json = webService.get(url)
