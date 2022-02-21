@@ -23,9 +23,15 @@ class I18nMessagesController {
             locale = new Locale(locBits[1], locBits[2]?:'')
         }
 
-        Properties props = messageSource.listMessageCodes(locale?:request.locale)
-        log.debug "message source properties size = ${props.size()}"
-        List messages = props.collect{ new String("${it.key}=${it.value}".getBytes("UTF-8"), "UTF-8") }
+        def appProps = messageSource.getMergedProperties(locale).getProperties()
+        def pluginProps = messageSource.getMergedPluginProperties(locale).getProperties() // gives i18n codes from plugins
+        // created a merged set of properties
+        Properties mergedProps = new Properties()
+        mergedProps.putAll(appProps)
+        mergedProps.putAll(pluginProps)
+
+        log.debug "message source properties size = ${mergedProps.size()}"
+        List messages = mergedProps.collect{ new String("${it.key}=${it.value}".getBytes("UTF-8"), "UTF-8") }
 
         render ( text: messages.sort().join("\n") )
     }
