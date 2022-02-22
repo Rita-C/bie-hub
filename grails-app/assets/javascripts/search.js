@@ -1,6 +1,5 @@
-//= require jquery.sortElemets
 /*
- * Copyright (C) 2012 Atlas of Living Australia
+ * Copyright (C) 2022 Atlas of Living Australia
  * All Rights Reserved.
  *
  * The contents of this file are subject to the Mozilla Public
@@ -12,7 +11,10 @@
  * IS" basis, WITHOUT WARRANTY OF ANY KIND, either express or
  * implied. See the License for the specific language governing
  * rights and limitations under the License.
- *//**
+ */
+
+//= require jquery.sortElemets
+/**
  * Created with IntelliJ IDEA.
  * User: nick
  * Date: 29/06/12
